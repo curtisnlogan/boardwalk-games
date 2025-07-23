@@ -1,4 +1,4 @@
-/* grid visualization CSS for testing */
+/* grid visualization CSS for testing
 .container,
 .row {
     border: 2px solid black;
@@ -7,7 +7,7 @@
 .col-12 {
     border: 2px solid white;
     background-color: lightgray;
-}
+} */
 
 /* google fonts import */
 @import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Macondo&display=swap");
