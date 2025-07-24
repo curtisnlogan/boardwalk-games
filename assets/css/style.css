@@ -39,3 +39,9 @@ h3 {
 #navbar .logo {
     width: 30px;
 }
+
+/* header */
+
+#header .lead {
+    font-family: var(--secondary-font);
+}
