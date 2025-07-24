@@ -28,3 +28,9 @@ h3 {
 .sub-heading-color {
     color: var(--highlight-color);
 }
+
+/* navbar */
+
+#navbar {
+    background-color: var(--primary-color);
+}
