@@ -57,6 +57,19 @@ h2 {
     color: white;
 }
 
+.custom-button-outline {
+    border: 2px solid var(--highlight-color);
+    padding: 7px 25px;
+    background: transparent;
+    color: var(--highlight-color);
+}
+
+.custom-button-outline:hover {
+    padding: 7px 25px;
+    background-color: var(--highlight-color);
+    color: white;
+}
+
 /* navbar */
 
 #navbar {
