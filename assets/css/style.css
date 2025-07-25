@@ -110,6 +110,10 @@ h2 {
     color: var(--secondary-color);
 }
 
+#contact .table-dark * {
+    background-color: transparent;
+}
+
 /* media queries */
 @media screen and (min-width: 768px) {
     /* make all service cards the same height for consistency */
