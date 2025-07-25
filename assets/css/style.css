@@ -155,6 +155,10 @@ h2 {
     #services .card-body {
         min-height: 191px;
     }
+
+    .student-discount {
+        margin: 0 200px 0 200px;
+    }
 }
 
 @media screen and (min-width: 992px) {
@@ -171,6 +175,9 @@ h2 {
         /* ensures just enough space for the content */
         min-height: 220px;
     }
+    .student-discount {
+        margin: 0 100px 0 100px;
+    }
 }
 
 @media screen and (min-width: 1400px) {
@@ -178,5 +185,8 @@ h2 {
     #services .card-body {
         /* ensures just enough space for the content */
         min-height: 195px;
+    }
+    .student-discount {
+        margin: 0 150px 0 150px;
     }
 }
