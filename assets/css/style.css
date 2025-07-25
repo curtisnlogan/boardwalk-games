@@ -60,7 +60,6 @@ h2 {
 .custom-button-outline {
     border: 2px solid var(--highlight-color);
     padding: 7px 25px;
-    background: transparent;
     color: var(--highlight-color);
 }
 
