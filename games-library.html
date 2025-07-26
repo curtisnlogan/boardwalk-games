@@ -388,13 +388,13 @@
             <section class="container section" id="reserve-a-game">
                 <div class="row justify-content-center">
                     <div class="col-12">
-                        <h2 class="display-6 text-center">Reserve a game</h2>
+                        <h2 class="display-6 text-center mt-3">Reserve a game</h2>
                         <p>
                             Reserve a board game for your next visit to Boardwalk Games. Pick your challenge, and let the adventure begin! Fill out your details and preferred game below, and we'll have it set aside for you when you arrive.
                         </p>
                     </div>
                     <form action="success.html" method="GET">
-                        <div class="col-12">
+                        <div class="col-12 p-1">
                             <label for="name" class="form-label"
                                 >Full name</label
                             >
@@ -406,7 +406,7 @@
                                 required
                             />
                         </div>
-                        <div class="">
+                        <div class="p-1">
                             <label for="phone" class="form-label"
                                 >Phone number</label
                             >
@@ -418,7 +418,7 @@
                                 required
                             />
                         </div>
-                        <div class="">
+                        <div class="p-1">
                             <label for="email" class="form-label"
                                 >Email address</label
                             >
@@ -430,7 +430,7 @@
                                 required
                             />
                         </div>
-                        <div class="">
+                        <div class="p-1">
                             <label for="game-selection" class="form-label"
                                 >Select game</label
                             >
@@ -469,7 +469,7 @@
                                 </option>
                             </select>
                         </div>
-                        <div class="">
+                        <div class="p-1">
                             <label for="requested-date" class="form-label"
                                 >Requested date</label>
                             <input
@@ -480,12 +480,14 @@
                                 required
                             ></input>
                         </div>
-                        <button
-                            type="submit"
-                            class="btn custom-button-outline"
-                        >
-                            Submit
-                        </button>
+                        <div class ="d-flex justify-content-end">
+                            <button
+                                type="submit"
+                                class="btn custom-button-outline mt-4 mb-3"
+                            >
+                                Submit
+                            </button>
+                        </div>
                     </form>
                 </div>    
             </section>
