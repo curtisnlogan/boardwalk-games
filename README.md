@@ -4,4 +4,4 @@ This project is a website for a shop that is based around tabletop games. It was
 
 ## Acknowledgements
 
-  * This project was a guided project at Code Institute. Thanks to my instructors and classmates for their support.
+  * This project was a semi-guided project at Code Institute. Thanks to my instructors and classmates for their support.
