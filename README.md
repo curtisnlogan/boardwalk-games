@@ -4,4 +4,4 @@ This project is a website for a shop that is based around tabletop games. It was
 
 ## Acknowledgements
 
-  * This project was a walkthrough project with challenges at Code Institute.
+This project was a walkthrough project with challenges at Code Institute.
